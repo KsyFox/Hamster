@@ -19,6 +19,7 @@ const App = () => {
             </button>
             <img className={toto.pix} src={gaf[may]}
                  alt={"Sorry, the hamster died. To resurrect, try reload the page."}/>
+            <p className={toto.rom}> Привет! Это пробный хомяк-тап, просто наслаждайтесь)</p>
         </>
     );
 };
